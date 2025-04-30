@@ -2,6 +2,9 @@
 
 💻 Developer por pasión | 🔒 Amante de la privacidad | 🧠 Aprendiendo cada día
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/IamFldev.png" alt="Your Image Badge" />
+
+
 ---
 
 ### 🧹 Sobre mí
