@@ -9,10 +9,13 @@
 
 ### 🧹 Sobre mí
 
-- 🚀 Actualmente explorando **Git, GPG y desarrollo web**
-- 🛠 Me gusta crear cosas útiles y entender cómo funcionan por dentro
-- 🧑‍💻 Mis commits están **firmados digitalmente** con GPG (`✅ Verified`)
-- 🌱 Aprendiendo: **JavaScript, React y Git avanzado**
+### 🧹 Sobre mí
+
+- 🚀 En formación continua en **redes y ciberseguridad**, actualmente preparando **CCNA**
+- 🌐 Practicando direccionamiento IPv4, subnetting, routing básico y configuración de dispositivos Cisco
+- 🛠 Documentando laboratorios con **Cisco Packet Tracer**, comandos IOS y tablas de direccionamiento
+- 🔐 Interesado en evolucionar hacia roles de **SOC, soporte IT/redes y ciberseguridad**
+- 🌱 Aprendiendo: **CCNA, Linux, Python, Git y fundamentos de seguridad**
 
 ---
 
