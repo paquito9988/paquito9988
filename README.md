@@ -32,13 +32,10 @@
 ![IamFLDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=paquito9988&show_icons=true&theme=radical)
 
 ---
-
-### ☕ Fun fact
-
-> A veces compilo código solo para ver si explota (y aprender por qué).
-
----
-
 ### 🤝 ¿Conectamos?
 
 💬 _"Siempre abierto a aprender, colaborar y compartir."_
+
+- LinkedIn: [Francisco Manuel Lara Jiménez](https://www.linkedin.com/in/francisco-manuel-lara-jimenez-a4487b362)
+
+
