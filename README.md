@@ -9,8 +9,6 @@
 
 ### 🧹 Sobre mí
 
-### 🧹 Sobre mí
-
 - 🚀 En formación continua en **redes y ciberseguridad**, actualmente preparando **CCNA**
 - 🌐 Practicando direccionamiento IPv4, subnetting, routing básico y configuración de dispositivos Cisco
 - 🛠 Documentando laboratorios con **Cisco Packet Tracer**, comandos IOS y tablas de direccionamiento
