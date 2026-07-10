@@ -26,12 +26,6 @@
 ![GPG](https://img.shields.io/badge/GPG-0093DD?style=flat&logo=gnupg&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![IamFLDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=paquito9988&show_icons=true&theme=radical)
-
----
 ### 🤝 ¿Conectamos?
 
 💬 _"Siempre abierto a aprender, colaborar y compartir."_
